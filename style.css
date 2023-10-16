@@ -79,9 +79,9 @@ h1 {
     color: white;
 }
 
-h1::before {
+/* h1::before {
     content: "THIS IS A HEADING";
-}
+} */
 
 .navbar {
     display: flex;
